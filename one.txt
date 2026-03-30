@@ -1,1 +1,2 @@
 i am inside the one.txt file.
+Editing this one.txt after pulling it from the remove.
